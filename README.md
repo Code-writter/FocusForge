@@ -1,4 +1,4 @@
-#⚡ FocusForge
+# ⚡ FocusForge
 <img width="1200" height="630" alt="banner" src="https://github.com/user-attachments/assets/d07c2f07-703d-471a-b675-8f7ba12e4146" />
 
 **AI-Powered Task Triage via Amazon Bedrock**
